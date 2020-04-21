@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d5575bb430af785bdea7ff593698304",
+    "revision": "17ecfb7d959097efa8c6d39f8a3f3199",
     "url": "/PWA-Robofriends-Udemy/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PWA-Robofriends-Udemy/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "20e92596e94eae1aaaef",
+    "revision": "b930146aed3480f48f5a",
     "url": "/PWA-Robofriends-Udemy/static/css/main.37daadfa.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PWA-Robofriends-Udemy/static/js/2.9bf63e8f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "20e92596e94eae1aaaef",
-    "url": "/PWA-Robofriends-Udemy/static/js/main.e4c1bb5a.chunk.js"
+    "revision": "b930146aed3480f48f5a",
+    "url": "/PWA-Robofriends-Udemy/static/js/main.47d5cc23.chunk.js"
   },
   {
     "revision": "2b4522720c8dd8668e11",
